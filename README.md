@@ -18,7 +18,7 @@ Step-by-step instructions to set up the project locally:
 
 ```bash
 # Clone the repository
-git clone [<[repository-url](https://github.com/mrcdctr/python-cheat-sheet)>]
+git clone https://github.com/mrcdctr/python-cheat-sheet
 
 # Navigate to the project directory
 cd <project-directory>
